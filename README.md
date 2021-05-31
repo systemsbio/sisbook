@@ -1,4 +1,4 @@
- # Textbook -- Please no forks and pull requestes- here!
+ # Textbook -- Please no forks and pull requests- here!
 UNDER DEVELOPEMENT
 
 Currently an EXPERIMENT in acquiring open-licensed content and new content into a resource for systems biology reseaerch and education.
